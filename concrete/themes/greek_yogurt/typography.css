@@ -38,7 +38,7 @@ div#main-container #header ul li a:hover {
 }
 
 div#main-container #header h1 a, div#main-container #header h1 a:link, div#main-container #header h1 a:visited, div#main-container #header h1 a:active, div#main-container #header h1 a:hover {
-	/* customize_site-title */ color: #000; /* customize_site-title */
+	/* customize_site-title */ color: red; /* customize_site-title */
 	text-decoration: none;
 }
 
